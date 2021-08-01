@@ -11,7 +11,7 @@ OAuth 로그인 Vue 프로젝트로 Spring Boot와 연동하여 동작합니다.
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:3000
 npm run dev
 
 # build for production with minification
